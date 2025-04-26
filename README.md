@@ -1,4 +1,4 @@
-# **Proyek Klasifikasi Gambar Pakaian 👕👚** 
+# **Proyek Klasifikasi Pakaian 👕👚** 
 **Deskripsi:** Proyek ini merupakan proyek untuk melakukan proses klasifikasi gambar pakaian terhadap 15 kategori.
 
 ## **Detail Dataset**
